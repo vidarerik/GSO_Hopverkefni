@@ -1,4 +1,4 @@
--- Höfundar verkefnis er Sigurður Róber Rúnarsson og Viðar Erik Viðarsson
+-- Höfundar verkefnis er Sigurður Róbert Rúnarsson og Viðar Erik Viðarsson
 CREATE TABLE flokkur
 (
 	id int primary key auto_increment,
