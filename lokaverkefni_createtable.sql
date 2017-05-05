@@ -1,26 +1,26 @@
 -- Höfundar verkefnis er Sigurður Róbert Rúnarsson og Viðar Erik Viðarsson
 CREATE TABLE flokkur
 (
-	id int primary key auto_increment,
+    id int primary key auto_increment,
     nafn varchar(255)
 );
 
 CREATE TABLE tegund
 (
-	id int primary key auto_increment,
+    id int primary key auto_increment,
     nafn varchar(255)
 );
 
 CREATE TABLE utgefandi
 (
-	id int primary key auto_increment,
+    id int primary key auto_increment,
     nafn varchar(255)
 );
 
 
 CREATE TABLE flytjandi
 (
-	id int primary key auto_increment,
+    id int primary key auto_increment,
     nafn varchar(255),
     faedingardagur varchar(255),
     lysing varchar(255),
@@ -33,7 +33,7 @@ CREATE TABLE flytjandi
 
 CREATE TABLE diskur
 (
-	id int primary key auto_increment,
+    id int primary key auto_increment,
     nafn varchar(255),
     utgafudagur varchar(255),
     tegund_disks int,
@@ -45,14 +45,14 @@ CREATE TABLE diskur
 
 CREATE TABLE lag
 (
-	id int primary key auto_increment,
+    id int primary key auto_increment,
     nafn varchar(255),
     lengd int,
     texti text,
     flokkur int(255),
-	diskur int,
-	flytjandi int,
+    diskur int,
+    flytjandi int,
     Foreign Key(flokkur) references flokkur(id),
-	Foreign Key (diskur) references diskur(id),
-	Foreign Key (flytjandi) references flytjandi(id)
+    Foreign Key (diskur) references diskur(id),
+    Foreign Key (flytjandi) references flytjandi(id)
 );
