@@ -25,4 +25,3 @@ Síðan byrjuðum við að gera eftirfarandi fyrirspurnir fyrir Hlut B. "Version 2." 
 --------|
 Í Dag mánudaginn 8.Maí þá erum við að klára þær eftirfarandi fyrirspurnir sem við náðum ekki að klára "F,H,I og O " einir og síðan bætum við 7 fyrirspurnum sem er loka parturinn á Lokaverkefni_GSÖ1TÖ05AU.
 Líka farið í að Klára Dagbókinna og Skrifa smá auka lýsingar í Verkáætlum sem er í readme.md á github hópnum.
--end
