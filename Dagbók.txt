@@ -2,13 +2,11 @@ Dagbók fyrir lokaverkefni í GSÖ1TÖ05AU Vor önn 2017.
 
 Höfundar á dagbók eru: Sigurður R. Rúnarsson og Viðar Erik Viðarsson.
 
-
 --------|
 3.5.2017|*
 --------|
 Á miðvikudaginn 3.Maí förum við í það að laga myndinna sem ég og viðar teiknuðum.
 Við tengdum töfluna á myndinni rétt og fengum síðan myndina samþykkta af Þórarinn kennara.
-
 
 --------|
 5.5.2017|*
@@ -16,16 +14,15 @@ Við tengdum töfluna á myndinni rétt og fengum síðan myndina samþykkta af Þórarin
 Á föstudaginn 5.Maí förum við í að gera hugmyndir fyrir lög, albums og allar upplýsingar sem eiga að vera í töflunni okkar
 Síðan gerðum við töflunna með lokaverkefni_createtable.sql og fórum í að finna meiri upplýsingar til að setja inn í töflunna fyrir hlut A.
 
-
 --------|
 6.5.2017|*
 --------|
-Á Laugardaginn 6.Maí fór ég heim til Viðar Eriks og við förum í að setja allar upplýsingar sem við vörum búinn að samþykka í töflunna og kláruðum Hlut A.
+Á Laugardaginn 6.Maí fór ég heim til Viðar Eriks og við förum í að setja allar upplýsingar sem við vörum búinn að samþykkja í töflunna og kláruðum Hlut A.
 Síðan byrjuðum við að gera eftirfarandi fyrirspurnir fyrir Hlut B. "Version 2." sem gekk vel hjá okkur þangað til að við festumst á lið F,H,I og O fyrirsðurnunum og ætlum að reyna fá aðstoð við þær hjá Þórarinn eða Sigríði í skólanum á morgun 8.Maí.
-
 
 --------|
 8.5.2017|*
 --------|
 Í Dag mánudaginn 8.Maí þá erum við að klára þær eftirfarandi fyrirspurnir sem við náðum ekki að klára "F,H,I og O " einir og síðan bætum við 7 fyrirspurnum sem er loka parturinn á Lokaverkefni_GSÖ1TÖ05AU.
 Líka farið í að Klára Dagbókinna og Skrifa smá auka lýsingar í Verkáætlum sem er í readme.md á github hópnum.
+-end
