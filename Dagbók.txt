@@ -1,31 +1,27 @@
-Dagbók fyrir lokaverkefni í GSÖ1TÖ05AU Vor önn 2017.
+DagbÃ³k fyrir lokaverkefni Ã­ GSÃ–1TÃ–05AU Vor Ã¶nn 2017.
 
-Höfundar á dagbók eru: Sigurğur R. Rúnarsson og Viğar Erik Viğarsson.
-
+HÃ¶fundar Ã¡ dagbÃ³k eru: SigurÃ°ur R. RÃºnarsson og ViÃ°ar Erik ViÃ°arsson.
 
 --------|
 3.5.2017|*
 --------|
-Á miğvikudaginn 3.Maí förum viğ í şağ ağ laga myndinna sem ég og viğar teiknuğum.
-Viğ tengdum töfluna á myndinni rétt og fengum síğan myndina samşykkta af Şórarinn kennara.
-
+Ã miÃ°vikudaginn 3.MaÃ­ fÃ¶rum viÃ° Ã­ Ã¾aÃ° aÃ° laga myndinna sem Ã©g og viÃ°ar teiknuÃ°um.
+ViÃ° tengdum tÃ¶fluna Ã¡ myndinni rÃ©tt og fengum sÃ­Ã°an myndina samÃ¾ykkta af ÃÃ³rarinn kennara.
 
 --------|
 5.5.2017|*
 --------|
-Á föstudaginn 5.Maí förum viğ í ağ gera hugmyndir fyrir lög, albums og allar upplısingar sem eiga ağ vera í töflunni okkar
-Síğan gerğum viğ töflunna meğ lokaverkefni_createtable.sql og fórum í ağ finna meiri upplısingar til ağ setja inn í töflunna fyrir hlut A.
-
+Ã fÃ¶studaginn 5.MaÃ­ fÃ¶rum viÃ° Ã­ aÃ° gera hugmyndir fyrir lÃ¶g, albums og allar upplÃ½singar sem eiga aÃ° vera Ã­ tÃ¶flunni okkar
+SÃ­Ã°an gerÃ°um viÃ° tÃ¶flunna meÃ° lokaverkefni_createtable.sql og fÃ³rum Ã­ aÃ° finna meiri upplÃ½singar til aÃ° setja inn Ã­ tÃ¶flunna fyrir hlut A.
 
 --------|
 6.5.2017|*
 --------|
-Á Laugardaginn 6.Maí fór ég heim til Viğar Eriks og viğ förum í ağ setja allar upplısingar sem viğ vörum búinn ağ samşykka í töflunna og kláruğum Hlut A.
-Síğan byrjuğum viğ ağ gera eftirfarandi fyrirspurnir fyrir Hlut B. "Version 2." sem gekk vel hjá okkur şangağ til ağ viğ festumst á liğ F,H,I og O fyrirsğurnunum og ætlum ağ reyna fá ağstoğ viğ şær hjá Şórarinn eğa Sigríği í skólanum á morgun 8.Maí.
-
+Ã Laugardaginn 6.MaÃ­ fÃ³r Ã©g heim til ViÃ°ar Eriks og viÃ° fÃ¶rum Ã­ aÃ° setja allar upplÃ½singar sem viÃ° vÃ¶rum bÃºinn aÃ° samÃ¾ykkja Ã­ tÃ¶flunna og klÃ¡ruÃ°um Hlut A.
+SÃ­Ã°an byrjuÃ°um viÃ° aÃ° gera eftirfarandi fyrirspurnir fyrir Hlut B. "Version 2." sem gekk vel hjÃ¡ okkur Ã¾angaÃ° til aÃ° viÃ° festumst Ã¡ liÃ° F,H,I og O fyrirsÃ°urnunum og Ã¦tlum aÃ° reyna fÃ¡ aÃ°stoÃ° viÃ° Ã¾Ã¦r hjÃ¡ ÃÃ³rarinn eÃ°a SigrÃ­Ã°i Ã­ skÃ³lanum Ã¡ morgun 8.MaÃ­.
 
 --------|
 8.5.2017|*
 --------|
-Í Dag mánudaginn 8.Maí şá erum viğ ağ klára şær eftirfarandi fyrirspurnir sem viğ náğum ekki ağ klára "F,H,I og O " einir og síğan bætum viğ 7 fyrirspurnum sem er loka parturinn á Lokaverkefni_GSÖ1TÖ05AU.
-Líka fariğ í ağ Klára Dagbókinna og Skrifa smá auka lısingar í Verkáætlum sem er í readme.md á github hópnum.
+Ã Dag mÃ¡nudaginn 8.MaÃ­ Ã¾Ã¡ erum viÃ° aÃ° klÃ¡ra Ã¾Ã¦r eftirfarandi fyrirspurnir sem viÃ° nÃ¡Ã°um ekki aÃ° klÃ¡ra "F,H,I og O " einir og sÃ­Ã°an bÃ¦tum viÃ° 7 fyrirspurnum sem er loka parturinn Ã¡ Lokaverkefni_GSÃ–1TÃ–05AU.
+LÃ­ka fariÃ° Ã­ aÃ° KlÃ¡ra DagbÃ³kinna og Skrifa smÃ¡ auka lÃ½singar Ã­ VerkÃ¡Ã¦tlum sem er Ã­ readme.md Ã¡ github hÃ³pnum.
